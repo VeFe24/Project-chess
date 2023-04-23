@@ -1,1 +1,1 @@
-# Project-chess
+# Fehérvíziová-project-chess
