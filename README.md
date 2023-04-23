@@ -1,1 +1,0 @@
-# Fehérvíziová-project-chess
